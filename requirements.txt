@@ -1,0 +1,3 @@
+PyMySQL==0.9.3
+python-dotenv==0.10.3
+SQLAlchemy==1.3.6
